@@ -10,5 +10,5 @@ public class UserDto {
     private String firstName;
     private String lastName;
     private String phone;
-    private UserRole role;
+    private UserRole role = UserRole.CUSTOMER;
 }

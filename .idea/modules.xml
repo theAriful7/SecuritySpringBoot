@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EcommerceApplication.iml" filepath="$PROJECT_DIR$/.idea/EcommerceApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceApplication/EcommerceApplication.iml" filepath="$PROJECT_DIR$/EcommerceApplication/EcommerceApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SecuritySpringBoot.iml" filepath="$PROJECT_DIR$/.idea/SecuritySpringBoot.iml" />
     </modules>
   </component>
 </project>
